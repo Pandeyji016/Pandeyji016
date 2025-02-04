@@ -1,18 +1,52 @@
-👋 Hi, I'm Ayush Pandey
+# 👋 Hi, I'm Aviral Saxena
+
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software engineering.
 
-🔧 Technologies & Tools
-Languages: C++, C, Python, JavaScript
-Frameworks: React, Flask
-Databases: MySQL
-Tools: Git, VS Code
-🚀 Projects
-🌱 What I'm currently learning
-Backend using FireBase
-📫 How to reach me
-Email: ayushpandeyvns07@gmail.com
-LinkedIn: https://www.linkedin.com/in/ayush-pandey-473a86237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-🏆 GitHub Stats
-GitHub Stats	
-📈 Top Languages
-Top Languages
+## 🔧 Technologies & Tools
+
+- *Languages:* C++, C, Python, JavaScript
+- *Frameworks:* React, Flask
+- *Databases:* MySQL 
+- *Tools:* Git, VS Code
+
+## 🚀 Projects
+
+Here are some of my noteworthy projects:
+
+1. **[FitFix](https://github.com/Gunjanmishra481/FitFix)**: We are developing a full-stack iOS app using UIKit for daily clothing recommendations, helping users save time by eliminating the hassle of deciding what to wear.
+2. **[Attendance_Report](https://github.com/silentstone00/attendance_report_system)**: Using simple libraries like NumPy and Pandas, it creates student attendance reports from a CSV file, showing absences in days or hours, graphs, etc.
+3. **[Template_Website](https://github.com/silentstone00/web.github.io)**: I created this website as part of an assignment for a Coursera course offered by Johns Hopkins University.(Link - https://silentstone00.github.io/web.github.io/week3)
+
+## 🌱 What I'm currently learning
+
+- Backend using FireBase
+- iOS Development
+
+## 📫 How to reach me
+
+- *Email:* [saxenaaviral05@gmail.com](mailto:saxenaaaviral05@gmail.com)
+- *LinkedIn:* [aviral-saxena](https://www.linkedin.com/in/aviral-saxena-5670351ba/)
+- *Twitter:* [silentstone10](https://x.com/silentstone10)
+
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h2>🏆 GitHub Stats</h2>
+        <img src="![Pandeyji016's Stats](https://github-readme-stats.vercel.app/api?username=Pandeyji016&theme=prussian&show_icons=true&hide_border=false&count_private=true)" alt="GitHub Stats" />
+      </td>
+      <td width="50%" align="center">
+        <h2>📈 Top Languages</h2>
+        <img src=“![Pandeyji016's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pandeyji016&theme=prussian&show_icons=true&hide_border=false&layout=compact)” alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <h2>👋 Let's Connect</h2>
+  <p>Feel free to reach out if you want to collaborate on projects or just chat about technology.</p>
+</div>
+
+---
+
+Thank you for visiting my profile!
