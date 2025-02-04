@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## 🌱 What I'm currently learning
 
 - Backend using FireBase
-- iOS Development
+- Machine Learning
 
 ## 📫 How to reach me
 
