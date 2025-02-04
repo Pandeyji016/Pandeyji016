@@ -24,21 +24,15 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - *Twitter:* [ayush07](https://x.com/ayushpandey)
 
 
-<div align="center">
+,<div align="center">
   <table>
     <tr>
       <td width="50%" align="center">
         <h2>🏆 GitHub Stats</h2>
         <img src="https://github-readme-stats.vercel.app/api?username=Pandeyji016&theme=prussian&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
       </td>
-      <td width="50%" align="center">
-        <h2>📈 Top Languages</h2>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pandeyji016&theme=prussian&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <h2>👋 Let's Connect</h2>
+      <td width="50%" align="center"></br>
+        <h2>👋 Let's Connect</h2>
   <p>Feel free to reach out if you want to collaborate on projects or just chat about technology.</p>
 </div>
 
