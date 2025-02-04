@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
       </td>
       <td width="50%" align="center">
         <h2>📈 Top Languages</h2>
-        <img src=“![Pandeyji016's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pandeyji016&theme=prussian&show_icons=true&hide_border=false&layout=compact)” alt="Top Languages" />
+        <img src="![Pandeyji016's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pandeyji016&theme=prussian&show_icons=true&hide_border=false&layout=compact)” alt="Top Languages" />
       </td>
     </tr>
   </table>
