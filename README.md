@@ -20,8 +20,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## 📫 How to reach me
 
 - *Email:* [ayushpandeyvns07@gmail.com](mailto:saxenaaaviral05@gmail.com)
-- *LinkedIn:* [aviral-saxena](https://www.linkedin.com/in/ayush-pandey-473a86237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- *Twitter:* [silentstone10](https://x.com/ayushpandey)
+- *LinkedIn:* [Ayush Pandey](https://www.linkedin.com/in/ayush-pandey-473a86237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- *Twitter:* [ayush07](https://x.com/ayushpandey)
 
 
 <div align="center">
