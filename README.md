@@ -29,11 +29,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
     <tr>
       <td width="50%" align="center">
         <h2>🏆 GitHub Stats</h2>
-        <img src="![Pandeyji016's Stats](https://github-readme-stats.vercel.app/api?username=Pandeyji016&theme=prussian&show_icons=true&hide_border=false&count_private=true)" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Pandeyji016&theme=prussian&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
         <h2>📈 Top Languages</h2>
-        <img src="![Pandeyji016's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pandeyji016&theme=prussian&show_icons=true&hide_border=false&layout=compact)” alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pandeyji016&theme=prussian&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
       </td>
     </tr>
   </table>
