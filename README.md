@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aviral Saxena
+# 👋 Hi, I'm Ayush Pandey
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software engineering.
 
@@ -11,11 +11,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🚀 Projects
 
-Here are some of my noteworthy projects:
-
-1. **[FitFix](https://github.com/Gunjanmishra481/FitFix)**: We are developing a full-stack iOS app using UIKit for daily clothing recommendations, helping users save time by eliminating the hassle of deciding what to wear.
-2. **[Attendance_Report](https://github.com/silentstone00/attendance_report_system)**: Using simple libraries like NumPy and Pandas, it creates student attendance reports from a CSV file, showing absences in days or hours, graphs, etc.
-3. **[Template_Website](https://github.com/silentstone00/web.github.io)**: I created this website as part of an assignment for a Coursera course offered by Johns Hopkins University.(Link - https://silentstone00.github.io/web.github.io/week3)
 
 ## 🌱 What I'm currently learning
 
@@ -24,9 +19,9 @@ Here are some of my noteworthy projects:
 
 ## 📫 How to reach me
 
-- *Email:* [saxenaaviral05@gmail.com](mailto:saxenaaaviral05@gmail.com)
-- *LinkedIn:* [aviral-saxena](https://www.linkedin.com/in/aviral-saxena-5670351ba/)
-- *Twitter:* [silentstone10](https://x.com/silentstone10)
+- *Email:* [ayushpandeyvns07@gmail.com](mailto:saxenaaaviral05@gmail.com)
+- *LinkedIn:* [aviral-saxena](https://www.linkedin.com/in/ayush-pandey-473a86237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- *Twitter:* [silentstone10](https://x.com/ayushpandey)
 
 
 <div align="center">
